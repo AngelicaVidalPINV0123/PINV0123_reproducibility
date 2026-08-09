@@ -1,0 +1,92 @@
+{
+    "seed": 42,
+    "segmentation": {
+        "lower_red": [
+            120,
+            0,
+            0
+        ],
+        "upper_red": [
+            255,
+            90,
+            90
+        ],
+        "minimum_box_area": 50
+    },
+    "images": 1255,
+    "positive_images": 1217,
+    "negative_images": 38,
+    "bounding_boxes": 22068,
+    "flights": [
+        {
+            "Flight": "Flight01",
+            "Images": 59,
+            "Positive Images": 29,
+            "Negative Images": 30,
+            "Positive (%)": 49.15,
+            "Negative (%)": 50.85,
+            "Objects": 128,
+            "Objects/Image": 2.17
+        },
+        {
+            "Flight": "Flight02",
+            "Images": 104,
+            "Positive Images": 99,
+            "Negative Images": 5,
+            "Positive (%)": 95.19,
+            "Negative (%)": 4.81,
+            "Objects": 1253,
+            "Objects/Image": 12.05
+        },
+        {
+            "Flight": "Flight03",
+            "Images": 356,
+            "Positive Images": 356,
+            "Negative Images": 0,
+            "Positive (%)": 100.0,
+            "Negative (%)": 0.0,
+            "Objects": 5232,
+            "Objects/Image": 14.7
+        },
+        {
+            "Flight": "Flight04",
+            "Images": 485,
+            "Positive Images": 485,
+            "Negative Images": 0,
+            "Positive (%)": 100.0,
+            "Negative (%)": 0.0,
+            "Objects": 10818,
+            "Objects/Image": 22.31
+        },
+        {
+            "Flight": "Flight05",
+            "Images": 40,
+            "Positive Images": 37,
+            "Negative Images": 3,
+            "Positive (%)": 92.5,
+            "Negative (%)": 7.5,
+            "Objects": 799,
+            "Objects/Image": 19.98
+        },
+        {
+            "Flight": "Flight06",
+            "Images": 80,
+            "Positive Images": 80,
+            "Negative Images": 0,
+            "Positive (%)": 100.0,
+            "Negative (%)": 0.0,
+            "Objects": 1349,
+            "Objects/Image": 16.86
+        },
+        {
+            "Flight": "Flight07",
+            "Images": 131,
+            "Positive Images": 131,
+            "Negative Images": 0,
+            "Positive (%)": 100.0,
+            "Negative (%)": 0.0,
+            "Objects": 2489,
+            "Objects/Image": 19.0
+        }
+    ]
+}

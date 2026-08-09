@@ -1,0 +1,8 @@
+Flight,Images,Positive Images,Negative Images,Positive (%),Negative (%),Objects,Objects/Image
+Flight01,59,29,30,49.15,50.85,128,2.17
+Flight02,104,99,5,95.19,4.81,1253,12.05
+Flight03,356,356,0,100.0,0.0,5232,14.7
+Flight04,485,485,0,100.0,0.0,10818,22.31
+Flight05,40,37,3,92.5,7.5,799,19.98
+Flight06,80,80,0,100.0,0.0,1349,16.86
+Flight07,131,131,0,100.0,0.0,2489,19.0

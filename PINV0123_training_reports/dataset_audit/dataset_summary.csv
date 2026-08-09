@@ -1,0 +1,8 @@
+Subset,Flight,Images,PositiveImages,NegativeImages,Objects,ObjectsPerImage
+Train,Flight01,59,29,30,128,2.17
+Train,Flight02,104,99,5,1253,12.05
+Train,Flight03,356,356,0,5232,14.7
+Train,Flight04,485,485,0,10818,22.31
+Validation,Flight05,40,37,3,799,19.98
+Validation,Flight06,80,80,0,1349,16.86
+Validation,Flight07,131,131,0,2489,19.0

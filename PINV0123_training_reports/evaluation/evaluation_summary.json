@@ -1,0 +1,26 @@
+{
+    "ValidationImages": 251,
+    "GroundTruthObjects": 4637,
+    "PredictedBoxes": 10102,
+    "TruePositives": 3303,
+    "FalsePositives": 2631,
+    "FalseNegatives": 1334,
+    "Precision": 0.5566228513650152,
+    "Recall": 0.7123139961181798,
+    "F1Score": 0.6249172263740422,
+    "MeanIoU": 0.7351093888282776,
+    "ConfidenceThreshold": 0.5,
+    "IoUThreshold": 0.5,
+    "PrecisionCI95": [
+        0.5253314666201995,
+        0.5631732948645821
+    ],
+    "RecallCI95": [
+        0.7022886177358046,
+        0.7461579341425539
+    ],
+    "F1CI95": [
+        0.5959494557581437,
+        0.6336923815568065
+    ]
+}

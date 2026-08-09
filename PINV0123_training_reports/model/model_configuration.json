@@ -1,0 +1,27 @@
+{
+    "Model": "Faster R-CNN",
+    "Backbone": "ResNet50-FPN",
+    "Weights": "DEFAULT",
+    "NumClasses": 2,
+    "BatchSize": 4,
+    "Epochs": 60,
+    "LearningRate": 5e-05,
+    "WeightDecay": 0.0001,
+    "Seed": 42,
+    "TrainFlights": [
+        "Flight01",
+        "Flight02",
+        "Flight03",
+        "Flight04"
+    ],
+    "ValidationFlights": [
+        "Flight05",
+        "Flight06",
+        "Flight07"
+    ],
+    "PyTorch": "2.11.0+cu128",
+    "Torchvision": "0.26.0+cu128",
+    "FrozenBackbone": true,
+    "TrainableParameters": 14499865,
+    "FrozenParameters": 26799296
+}
