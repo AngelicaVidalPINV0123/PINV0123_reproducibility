@@ -1,0 +1,7 @@
+{
+    "total_images": 1255,
+    "positive_images": 1215,
+    "negative_images": 40,
+    "total_boxes": 19764,
+    "mean_boxes_per_image": 15.748207171314741
+}
